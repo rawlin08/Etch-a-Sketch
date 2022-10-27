@@ -6,10 +6,9 @@ main {
 
 .container {
     display: grid;
-    width: 500px;
-    height: 500px;
-    background-color: var(--secondary-light);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 31.25em;
+    height: 31.25em;
+    border: 10px solid #808080;
 }
 
 .settings {
